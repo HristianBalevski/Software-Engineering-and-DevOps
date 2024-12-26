@@ -1,6 +1,8 @@
 # Software-Engineering-and-DevOps
 
-[Click here for more information about the course]([https://softuni.bg/trainings/4714/django-advanced-october-2024](https://softuni.bg/trainings/4851/software-engineering-and-devops-january-2025))
+A comprehensive course combining Software Engineering principles with DevOps practices to streamline development and deployment processes.
+
+[Click here for more information about the course](https://softuni.bg/trainings/4851/software-engineering-and-devops-january-2025)
 
 ![DevOps](https://github.com/user-attachments/assets/63d5721d-00e0-4af1-85a9-5ba6a4442eb7)
 
