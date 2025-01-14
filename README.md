@@ -1378,3 +1378,4 @@ DevOps обединява екипите, инструментите и проц
 # 03. Version Control with Git
 
 Update
+Secon Update from terminal
