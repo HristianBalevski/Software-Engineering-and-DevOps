@@ -1549,36 +1549,36 @@ GitHub е пълноценна платформа за управление на
 
 1. **Клониране на съществуващ Git репозиторий:**
 
-   git clone [remote url]
+   - git clone [remote url]
 
 2. **Изтегляне и сливане на последните промени от отдалечен репозиторий:**
 
-git pull
+   - git pull
 
 3. **Добавяне на файлове за комит:**
 
-git add [filename]
+   - git add [filename]
 
 - За добавяне на всички файлове:
 
-  git add .
+  - git add .
 
 4. **Записване на промени в локалния репозиторий:**
 
-git commit -m "[your message here]"
+   - git commit -m "[your message here]"
 
 5. **Проверка на състоянието на локалния репозиторий:**
 
-git status
+   - git status
 
 6. **Създаване на нов локален репозиторий (в текущата директория):**
 
-git init
+   - git init
 
 7. **Създаване на отдалечен репозиторий:**
 
-git remote add [remote name] [remote url]
+   - git remote add [remote name] [remote url]
 
 8. **Изпращане на промените към отдалечения репозиторий:**
 
-git push [remote name] [local branch name]
+   - git push [remote name] [local branch name]
