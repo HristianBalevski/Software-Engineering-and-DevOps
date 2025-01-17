@@ -1941,3 +1941,6 @@ GitFlow предоставя ясна и организирана структу
 GitLab Flow е подходящ за екипи, които искат да интегрират управлението на функционалности с ефективно внедряване в продукционна среда.
 
 ## Best Branching Strategy for Your Team
+
+<img width="1581" alt="Best strategy" src="https://github.com/user-attachments/assets/dd4080c7-aeed-4df6-bedb-a4700b59d33f" />
+
