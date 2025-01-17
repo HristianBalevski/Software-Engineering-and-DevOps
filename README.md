@@ -2024,3 +2024,6 @@ Pull Requests са мощен инструмент за сътрудничест
 Правилата за защита на клоновете гарантират качеството и последователността на кода, като предотвратяват нежелани промени.
 
 ## The Pull Request Process
+
+<img width="1581" alt="The Pull Request Process" src="https://github.com/user-attachments/assets/6489fe1d-d9fb-4793-b834-cc8d833be59e" />
+
