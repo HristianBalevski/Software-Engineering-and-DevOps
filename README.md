@@ -2403,3 +2403,6 @@ TDD е мощен метод, който гарантира по-високо к
 ---
 
 ## Test Scenarios and Test Cases – Example
+
+<img width="1541" alt="Test case example" src="https://github.com/user-attachments/assets/9d1c0837-c7ba-4381-b423-0b1648591429" />
+
