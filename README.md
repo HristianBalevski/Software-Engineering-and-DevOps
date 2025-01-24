@@ -2350,3 +2350,5 @@ TDD е мощен метод, който гарантира по-високо к
 ---
 
 # The Testing Pyramid
+
+<img width="1541" alt="Testing Pyramid" src="https://github.com/user-attachments/assets/328aad11-191b-4c3a-99e5-9e8ef66f9bda" />
