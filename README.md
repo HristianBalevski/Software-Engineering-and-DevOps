@@ -129,8 +129,6 @@ A comprehensive course combining Software Engineering principles with DevOps pra
 
 ## C) Software Architecture and Design
 
-### Софтуерна архитектура и дизайн
-
 - **Софтуерната архитектура**:
 
   - Технически описания (напр. диаграми) за това как системата реализира изискванията.
