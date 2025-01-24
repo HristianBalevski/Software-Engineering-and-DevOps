@@ -2540,3 +2540,34 @@ TDD е мощен метод, който гарантира по-високо к
 ## Unit vs. Integration Testing
 
 <img width="1461" alt="Unit vs Integration" src="https://github.com/user-attachments/assets/f371311d-8053-4617-91c4-43c6c215c199" />
+
+---
+
+## Популярни тестови рамки (Frameworks)
+
+1. **C# (ASP.NET Core):**
+
+   - **xUnit**
+   - **nUnit**
+   - **Moq**
+
+2. **Java (Spring):**
+
+   - **JUnit**
+   - **Spring Test**
+   - **Mockito**
+
+3. **JavaScript (Node.js/React/Vue):**
+
+   - **Jest**
+   - **Mocha** (и **Chai**)
+   - **Cypress**
+
+4. **Python:**
+   - **Pytest**
+   - **unittest**
+   - **Django Test Framework**
+
+Тези рамки предоставят мощни инструменти за различни езици и технологии, като улесняват писането и изпълнението на тестове.
+
+---
