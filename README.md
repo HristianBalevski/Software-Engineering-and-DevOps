@@ -2406,3 +2406,6 @@ TDD е мощен метод, който гарантира по-високо к
 
 <img width="1541" alt="Test case example" src="https://github.com/user-attachments/assets/9d1c0837-c7ba-4381-b423-0b1648591429" />
 
+## Test Case – Formal Example
+
+<img width="1555" alt="Formal example" src="https://github.com/user-attachments/assets/b12fe2f9-f0ab-4171-8438-37dc8fd19816" />
