@@ -383,6 +383,56 @@ A comprehensive course combining Software Engineering principles with DevOps pra
 
 <img width="1572" alt="CD Pipeline" src="https://github.com/user-attachments/assets/3e86ce0d-1937-4881-b7ec-8580365d765e" />
 
+## Примерен код за CI с GitHub Actions:
+
+  1. В проекта създайте папка ```.github/workflows```
+  2. Създайте файл ```ci.yml``` с този код:
+
+  ```
+  name: CI Pipeline
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    # Checkout the code
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    # Set up Python
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    # Install dependencies
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    # Run tests
+    - name: Run tests
+      run: |
+        pytest
+
+  ```
+
+## Какво прави този скрипт?
+
+  1. **Тригер:** Скриптът се изпълнява при ```push``` или ```pull request``` към клона ```main```.
+  2. **Инсталация:** Изтегля кода от хранилището, настройва Python и инсталира зависимостите от ```requirements.txt```.
+  3. **Тестове:** Стартира тестовете с ```pytest```.
+
 ## E) Software Quality Assurance (QA)Software Quality, Testing, QA Process
 
 ## Осигуряване на качество на софтуера (Software Quality Assurance - QA)
