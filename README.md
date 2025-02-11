@@ -2776,7 +2776,7 @@ API тестването осигурява ефективност, сигурн
 
 ---
 
-# 04. Continuous Integration, CI / CD Pipelines
+# 04. Continuous Integration and Continuous Delivery (CI/CD) with GiHub Actions
 
 ## Какво е CI/CD?
 
