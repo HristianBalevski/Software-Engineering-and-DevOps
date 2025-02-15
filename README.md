@@ -3464,4 +3464,111 @@ Jenkins Pipeline използва декларативен синтаксис, �
 
 <img width="1603" alt="Issue Lifecycle" src="https://github.com/user-attachments/assets/ce1cd1a3-cb5a-460f-9364-0801b7834373" />
 
+# Issues – Example
+
+<img width="1606" alt="Issue Example" src="https://github.com/user-attachments/assets/3c127146-7716-4759-a7ef-9e210c55613b" />
+
+# **Системи за проследяване на задачи (Issue Trackers)**
+
+## **GitHub Issues**
+- Вградена функционалност на GitHub.
+- Съхранява всички задачи на проекта (изисквания + бъгове).
+- **Включва:**
+  - Доклади за грешки (Bug reports).
+  - Заявки за нови функционалности (Feature requests).
+
+## **GitHub Projects**
+- Функционалност за управление на проекти в GitHub.
+- Позволява **планиране, организиране и проследяване** на напредъка в разработката.
+- Визуализира работния процес на задачите като **Kanban борд**.
+
+# Issue Trackers – Example
+
+<img width="1606" alt="Issue Tracker" src="https://github.com/user-attachments/assets/ed3e1d5d-5c2c-4407-9c16-e57d2d12c034" />
+
+# Inside an Issue
+
+## **Основни компоненти на една задача:**
+
+- **Title (Заглавие)**  
+  - Кратко описание на проблема или функционалността.
+
+- **Main body (Основно съдържание)**  
+  - Детайлно обяснение на задачата.
+
+- **Requirements (Изисквания)**  
+  - Очертаване на желаната функционалност и нейното предназначение.
+
+- **Bug description (Описание на бъг)**  
+  - **Стъпки за възпроизвеждане на проблема**.  
+  - **Очакван и реален резултат**.  
+
+- **Labels (Етикети)**  
+  - Категоризиране на задачите за по-лесна организация.  
+
+- **Discussion (Дискусия)**  
+  - Коментари и обсъждания от членовете на екипа.  
+
+- **History (История)**  
+  - Проследяване на промените във времето.
+ 
+# Inside an Issue – Example
+
+<img width="775" alt="Screenshot 2025-02-15 at 06 54 39" src="https://github.com/user-attachments/assets/39a8ea7d-ece2-43a1-9446-5d333f65e896" />
+
+# Branches
+
+## **Основни типове клонове в работния процес:**
+
+- **Feature Branch (Функционален клон)**  
+  - Пример: `change-title`, `fix-footer`.  
+  - Съдържа **разработвана нова функционалност или корекция на бъг**.  
+
+- **QA Branch (Тестови клон - qa)**  
+  - Съдържа **завършени функции, които са готови за тестване** от QA екипа.  
+
+- **Staging Branch (Стейджинг клон - staging)**  
+  - Съдържа **завършени и одобрени функционалности**, подготвени за продукционна среда.  
+
+- **Production Branch (Продукционен клон - main)**  
+  - Съдържа **код, който вече е внедрен в продукция**.
+
+<img width="697" alt="Screenshot 2025-02-15 at 06 56 14" src="https://github.com/user-attachments/assets/f4dad970-7014-44ef-bfca-df13dea4f122" />
+
+# Environments
+
+<img width="1566" alt="Screenshot 2025-02-15 at 06 59 50" src="https://github.com/user-attachments/assets/d099b6da-d30b-4b83-b98a-69d7358cf5cc" />
+<img width="1566" alt="Screenshot 2025-02-15 at 07 02 34" src="https://github.com/user-attachments/assets/65e17fe8-9dad-4234-a61f-8e0a9949f7df" />
+
+# Software Development Workflow
+
+<img width="1566" alt="Screenshot 2025-02-15 at 07 19 07" src="https://github.com/user-attachments/assets/98c02638-7b44-4ee7-8298-3065acdfe0ba" />
+
+# Development Workflow Steps
+
+<img width="1566" alt="Screenshot 2025-02-15 at 07 20 10" src="https://github.com/user-attachments/assets/932788aa-d2ee-4299-b3f8-bad1deec877c" />
+
+# Step 1: Sprint Planning
+
+<img width="1401" alt="Screenshot 2025-02-15 at 07 21 17" src="https://github.com/user-attachments/assets/f07ccb1a-10e7-4184-9b1f-074488d2a8f2" />
+
+# Step 2: Assign a Developer to Work on an Issue
+
+<img width="1586" alt="Screenshot 2025-02-15 at 07 22 25" src="https://github.com/user-attachments/assets/bb08a560-48b6-4787-9bce-bf2e853b089b" />
+
+# Step 3: Assign Completed Task to QA
+
+<img width="1586" alt="Screenshot 2025-02-15 at 07 23 39" src="https://github.com/user-attachments/assets/61490b00-f470-42f8-a06d-9b3c4267c0a0" />
+
+# Step 4: QA Review
+
+<img width="1586" alt="Screenshot 2025-02-15 at 07 24 44" src="https://github.com/user-attachments/assets/da731e83-bc05-4fa5-b810-5cabec294392" />
+
+# Step 5: Code Review
+
+<img width="1562" alt="Screenshot 2025-02-15 at 07 26 03" src="https://github.com/user-attachments/assets/9aff2b07-e919-4255-b873-55527cd05c3d" />
+
+# Step 6: Deploy to Production
+
+<img width="1521" alt="Screenshot 2025-02-15 at 07 27 15" src="https://github.com/user-attachments/assets/e0606cf3-80d2-441e-a9ef-f5742591c814" />
 
